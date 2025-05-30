@@ -16,10 +16,10 @@
 
 Hello! I’m a Computer Science student passionate about building clean, accessible, and responsive websites. I’m following a structured **16-month Full Stack Developer roadmap**, documenting my learning in **Obsidian**, and maintaining consistency through **daily LinkedIn updates**.
 
--   🎯 Currently in Phase 1: Core Web Foundations
--   ✨ Focused on semantic HTML, modular CSS, and GitHub best practices
--   🧠 Believer in learning in public and writing meaningful commits
--   🤝 Open to collaboration, feedback, and tech conversations
+- 🎯 Currently in Phase 1: Core Web Foundations
+- ✨ Focused on semantic HTML, modular CSS, and GitHub best practices
+- 🧠 Believer in learning in public and writing meaningful commits
+- 🤝 Open to collaboration, feedback, and tech conversations
 
 ---
 
@@ -28,10 +28,10 @@ Hello! I’m a Computer Science student passionate about building clean, accessi
 > **Phase:** Core Web Foundations
 > **Timeline:** May – June 2025
 
--   HTML5 Semantic Layouts & Forms
--   CSS3 Styling & Specificity
--   JavaScript Basics
--   Git & GitHub Workflow
+- HTML5 Semantic Layouts & Forms
+- CSS3 Styling & Specificity
+- JavaScript Basics
+- Git & GitHub Workflow
 
 ---
 
@@ -60,10 +60,19 @@ Hello! I’m a Computer Science student passionate about building clean, accessi
 
 ---
 
-## 🛠 Tech Stack
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,git,github,react,php,laravel,mysql" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5" alt="HTML5" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3" alt="CSS3" />
+  <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css" alt="TailwindCSS" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php" alt="PHP" />
+  <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel" alt="Laravel" />
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql" alt="MySQL" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git" alt="Git" />
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code" alt="VS Code" />
 </p>
 
 ---
