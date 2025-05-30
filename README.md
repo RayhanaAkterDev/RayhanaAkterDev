@@ -1,9 +1,9 @@
 <h1 align="center">Hi there 👋, I'm Rayhana Akter Sumaya</h1>
 <h3 align="center">🌼 CSE Student | 💻 Frontend Explorer | 🚀 Future Full Stack Developer</h3>
-<p align="center">Learning in public. Building one phase at a time.</p>
+<p align="center"><em>Learning in public. Building one phase at a time.</em></p>
 
-<p align="center">
-  <img src="images/rayhanakatersumaya.png" width="100" height="100" style="border-radius: 50%;" />
+<p align="center" style="width: 100px; height: 100px; border-radius: 50%; overflow: hidden; margin: auto;">
+  <img src="your-image-url" width="100" height="100" style="display: block; border-radius: 50%;" alt="Profile Pic" />
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 ## 🧩 About Me
 
-Hello! I’m a Computer Science student passionate about building clean, accessible, and responsive websites. I’m following a structured **16-month Full Stack Developer roadmap**, documenting my learning in **Obsidian**, and maintaining consistency through **daily LinkedIn updates**.
+Hello! I’m a Computer Science student passionate about building clean, accessible, and responsive websites. I’m following a structured **[16-month Full Stack Developer roadmap](your-roadmap-link)**, documenting my learning in **Obsidian**, and maintaining consistency through **daily LinkedIn updates**.
 
 - 🎯 Currently in Phase 1: Core Web Foundations
 - ✨ Focused on semantic HTML, modular CSS, and GitHub best practices
