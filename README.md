@@ -2,8 +2,8 @@
 <h3 align="center">🌼 CSE Student | 💻 Frontend Explorer | 🚀 Future Full Stack Developer</h3>
 <p align="center"><em>Learning in public. Building one phase at a time.</em></p>
 
-<p align="center" style="width: 100px; height: 100px; border-radius: 50%; overflow: hidden; margin: auto;">
-  <img src="https://github.com/RayhanaAkterDev/RayhanaAkterDev/blob/main/rayhanaaktersumaya.png" width="100" height="100" style="display: block; border-radius: 50%;" alt="Profile Pic" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RayhanaAkterDev/RayhanaAkterDev/main/rayhanaaktersumaya.png" width="100" height="100" alt="Profile Pic" />
 </p>
 
 <p align="center">
