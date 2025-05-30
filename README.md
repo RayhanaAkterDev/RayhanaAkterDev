@@ -1,107 +1,95 @@
-<h2 align="center">👋 Hi there, I'm Rayhana Akter Sumaya</h2>
+<h1 align="center">Hi there 👋, I'm Rayhana Akter Sumaya</h1>
+<h3 align="center">🌼 CSE Student | 💻 Frontend Explorer | 🚀 Future Full Stack Developer</h3>
+<p align="center">Learning in public. Building one phase at a time.</p>
 
 <p align="center">
-  💻 CSE Student | 🌱 Frontend Developer in Progress | 🚀 HTML, CSS, JavaScript Learner
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Learning+Frontend+the+Right+Way;Full+Stack+in+Progress;Built+with+Obsidian+%26+GitHub!&center=true&width=750&height=45&color=F7C59F&vCenter=true&size=24" />
 </p>
 
 ---
 
-### 👩‍💻 About Me
+## 🧩 About Me
 
--   🎓 I'm a Computer Science student passionate about **frontend development**
--   💡 Currently focused on building strong foundations in **HTML**, **CSS**, and **JavaScript**
--   🛠️ Exploring responsive layouts, semantic tags, and accessibility best practices
--   🎯 Goal: To become a professional **Frontend Developer** and build meaningful web applications
+Hello! I’m a Computer Science student passionate about building clean, accessible, and responsive websites. I’m following a structured **16-month Full Stack Developer roadmap**, documenting my learning in **Obsidian**, and maintaining consistency through **daily LinkedIn updates**.
 
----
-
-### 📘 What I'm Learning Now
-
--   ✅ HTML5: Structure, Forms, Semantic Tags, Accessibility
--   ✅ CSS: Layouts, Flexbox, Grid (coming soon)
--   ⏳ JavaScript: Starting soon (DOM, events, logic building)
+- 🎯 Currently in Phase 1: Core Web Foundations
+- ✨ Focused on semantic HTML, modular CSS, and GitHub best practices
+- 🧠 Believer in learning in public and writing meaningful commits
+- 🤝 Open to collaboration, feedback, and tech conversations
 
 ---
 
-### 🔧 Tools & Technologies
+## 🎯 Current Focus
 
--   Languages: `HTML`, `CSS`, `JavaScript`
--   Tools: `Git`, `GitHub`, `VS Code`
--   Currently Exploring: `Responsive Web Design`, `Accessibility`, `Semantic HTML`
+> **Phase:** Core Web Foundations
+> **Timeline:** May – June 2025
 
----
-
-### 📚 Learning Projects
-
-> 🚀 My main learning repo:
-> 🔗 [Frontend Bootcamp Repository](https://github.com/sumayasultana/frontend-bootcamp)
-
--   Hands-on HTML & CSS projects
--   Practice files, notes, and progress folders
--   Commit messages follow clean conventions
+- HTML5 Semantic Layouts & Forms
+- CSS3 Styling & Specificity
+- JavaScript Basics
+- Git & GitHub Workflow
 
 ---
 
-### 📫 Let's Connect
+## 🧭 Roadmap Snapshot
 
--   📧 Email: **rayhanaaktersumaya.dev@gmail.com**
--   🌐 LinkedIn: [linkedin.com/in/RayhanaAkterDev](#) _(coming soon)_
--   💻 GitHub: [github.com/RayhanaAkterDev](https://github.com/RayhanaAkterDev)
+| Phase | Topics Covered | Timeline |
+|-------|----------------|----------|
+| 📌 Core Web Foundations | HTML5, CSS3, JS Basics, Git | May – June 2025 |
+| 🔄 Advanced JS + React | ES6+, DOM, React, Hooks | July 2025 |
+| 🔧 PHP + Laravel | MVC, Blade, APIs | Aug – Sept 2025 |
+| 🔗 Full Stack Integration | React + Laravel | Oct – Nov 2025 |
+| 🗄️ DB + Deployment | MySQL, Hosting, CI/CD | Dec 2025 – Jan 2026 |
+| 💼 Job Readiness | Projects, Resume, Job Hunt | Feb – Apr 2026 |
 
 ---
+
+## 💻 Featured Projects
+
+> Projects built during each phase to reinforce practical learning.
+
+| Project                | Description                                           | Status         | Code Link       | Live Demo       |
+|------------------------|-------------------------------------------------------|----------------|------------------|------------------|
+| 💼 `semantic-layout`   | HTML5 portfolio using semantic tags & flex/grid       | ✅ Completed    | [Code](#)        | [Live](#)        |
+| 🎨 `css-styling-lab`   | Styling exercises with box model, layout, colors      | 🛠 In Progress  | [Code](#)        | [Live](#)        |
+| 🔭 `js-selectors-demo` | DOM manipulation using querySelector & events         | 🔜 Coming Soon | [Code](#)        | [Live](#)        |
+
+---
+
+## 🛠 Tech Stack
 
 <p align="center">
-  🌱 I believe in learning consistently, sharing progress, and growing with the community.
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,git,github,react,php,laravel,mysql" />
 </p>
 
 ---
 
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+## 📈 GitHub Activity
 
-###
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RayhanaAkterDev&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RayhanaAkterDev&theme=tokyonight" height="150" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+---
 
-###
+## 🌐 Connect With Me
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<p align="center">
+  <a href="https://linkedin.com/in/rayhanaaktersumaya.dev">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" />
+  </a>
+  <a href="mailto:rayhanaaktersumaya.dev@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
+## 📝 Signature Quote
 
-###
+> _"The expert in anything was once a beginner."_ — Helen Hayes
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+---
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
+_Thanks for stopping by! Let’s connect, collaborate, and grow together. 🚀_
