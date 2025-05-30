@@ -3,7 +3,7 @@
 <p align="center"><em>Learning in public. Building one phase at a time.</em></p>
 
 <p align="center" style="width: 100px; height: 100px; border-radius: 50%; overflow: hidden; margin: auto;">
-  <img src="your-image-url" width="100" height="100" style="display: block; border-radius: 50%;" alt="Profile Pic" />
+  <img src="https://github.com/RayhanaAkterDev/RayhanaAkterDev/blob/main/rayhanaaktersumaya.png" width="100" height="100" style="display: block; border-radius: 50%;" alt="Profile Pic" />
 </p>
 
 <p align="center">
@@ -16,10 +16,10 @@
 
 Hello! I’m a Computer Science student passionate about building clean, accessible, and responsive websites. I’m following a structured **[16-month Full Stack Developer roadmap](your-roadmap-link)**, documenting my learning in **Obsidian**, and maintaining consistency through **daily LinkedIn updates**.
 
-- 🎯 Currently in Phase 1: Core Web Foundations
-- ✨ Focused on semantic HTML, modular CSS, and GitHub best practices
-- 🧠 Believer in learning in public and writing meaningful commits
-- 🤝 Open to collaboration, feedback, and tech conversations
+-   🎯 Currently in Phase 1: Core Web Foundations
+-   ✨ Focused on semantic HTML, modular CSS, and GitHub best practices
+-   🧠 Believer in learning in public and writing meaningful commits
+-   🤝 Open to collaboration, feedback, and tech conversations
 
 ---
 
@@ -28,10 +28,10 @@ Hello! I’m a Computer Science student passionate about building clean, accessi
 > **Phase:** Core Web Foundations
 > **Timeline:** May – June 2025
 
-- HTML5 Semantic Layouts & Forms
-- CSS3 Styling & Specificity
-- JavaScript Basics
-- Git & GitHub Workflow
+-   HTML5 Semantic Layouts & Forms
+-   CSS3 Styling & Specificity
+-   JavaScript Basics
+-   Git & GitHub Workflow
 
 ---
 
