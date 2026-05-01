@@ -1,80 +1,72 @@
 <h1 align="center">Hi there 👋, I'm Rayhana Akter Sumaya</h1>
-<h3 align="center">🌼 CSE Student | 💻 Frontend Explorer | 🚀 Future Full Stack Developer</h3>
-<p align="center"><em>Learning in public. Building one phase at a time.</em></p>
+<h3 align="center">💻 Frontend Developer (Junior) | 🎓 CSE Student</h3>
+<p align="center"><em>Learning by building and improving step by step.</em></p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/RayhanaAkterDev/RayhanaAkterDev/main/rayhanaaktersumaya.png" width="100" height="100" alt="Profile Pic" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Learning+Frontend+the+Right+Way;Full+Stack+in+Progress;Built+with+Obsidian+%26+GitHub!&center=true&width=750&height=45&color=F7C59F&vCenter=true&size=24" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+Responsive+Websites;Learning+JavaScript+%26+React;Improving+Every+Day&center=true&width=750&height=45&color=F7C59F&vCenter=true&size=24" />
 </p>
 
 ---
 
 ## 🧩 About Me
 
-Hello! I’m a Computer Science student passionate about building clean, accessible, and responsive websites. I’m following a structured **[16-month Full Stack Developer roadmap](your-roadmap-link)**, documenting my learning in **Obsidian**, and maintaining consistency through **daily LinkedIn updates**.
+Hello! I’m a Computer Science student focused on frontend development. I enjoy building clean and responsive web interfaces using HTML, CSS, and Tailwind CSS.
 
--   🎯 Currently in Phase 1: Core Web Foundations
--   ✨ Focused on semantic HTML, modular CSS, and GitHub best practices
--   🧠 Believer in learning in public and writing meaningful commits
--   🤝 Open to collaboration, feedback, and tech conversations
+I have worked on several small projects to practice layout design, responsiveness, and basic JavaScript interactivity. Currently, I am strengthening my JavaScript fundamentals and learning React.
+
+- 🎯 Focused on frontend development fundamentals  
+- 💡 Practicing responsive design and UI structuring  
+- 🛠 Building projects to improve real-world skills  
+- 🤝 Open to learning, feedback, and collaboration  
 
 ---
 
 ## 🎯 Current Focus
 
-> **Phase:** Core Web Foundations
-> **Timeline:** May – June 2025
-
--   HTML5 Semantic Layouts & Forms
--   CSS3 Styling & Specificity
--   JavaScript Basics
--   Git & GitHub Workflow
+- JavaScript fundamentals (DOM, events, logic)  
+- Responsive web design using Tailwind CSS  
+- Learning React (beginner level)  
+- Improving consistency through regular practice  
 
 ---
 
-## 🧭 Roadmap Snapshot
+## 🧭 Learning Progress
 
-| Phase                     | Topics Covered              | Timeline            |
-| ------------------------- | --------------------------- | ------------------- |
-| 📌 Core Web Foundations   | HTML5, CSS3, JS Basics, Git | May – June 2025     |
-| 🔄 Advanced JS + React    | ES6+, DOM, React, Hooks     | July 2025           |
-| 🔧 PHP + Laravel          | MVC, Blade, APIs            | Aug – Sept 2025     |
-| 🔗 Full Stack Integration | React + Laravel             | Oct – Nov 2025      |
-| 🗄️ DB + Deployment        | MySQL, Hosting, CI/CD       | Dec 2025 – Jan 2026 |
-| 💼 Job Readiness          | Projects, Resume, Job Hunt  | Feb – Apr 2026      |
+| Area              | Status            |
+|------------------|------------------|
+| HTML & CSS       | ✅ Comfortable    |
+| Tailwind CSS     | ✅ Comfortable    |
+| JavaScript       | 🛠 Improving      |
+| React            | 🔄 Learning       |
+| Git & GitHub     | ✅ Basic usage    |
 
 ---
 
 ## 💻 Featured Projects
 
-> Projects built during each phase to reinforce practical learning.
+> Projects built to practice and apply frontend concepts.
 
-| Project                | Description                                      | Status         | Code Link | Live Demo |
-| ---------------------- | ------------------------------------------------ | -------------- | --------- | --------- |
-| 💼 `semantic-layout`   | HTML5 portfolio using semantic tags & flex/grid  | ✅ Completed   | [Code](#) | [Live](#) |
-| 🎨 `css-styling-lab`   | Styling exercises with box model, layout, colors | 🛠 In Progress  | [Code](#) | [Live](#) |
-| 🔭 `js-selectors-demo` | DOM manipulation using querySelector & events    | 🔜 Coming Soon | [Code](#) | [Live](#) |
+| Project | Description | Code | Live |
+|--------|------------|------|------|
+| Donate BD | Responsive donation website with JavaScript interactivity | [Code](#) | [Live](https://rayhanaakterdev.github.io/B10A5-Donate-BD/) |
+| Rinterio | Responsive real estate website using Tailwind CSS | [Code](#) | [Live](https://rayhanaakterdev.github.io/B10A3-Rinterio/) |
+| Fitness Website | Simple responsive layout using HTML & CSS | [Code](#) | [Live](https://rayhanaakterdev.github.io/B10A2-Fitness/) |
 
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5" alt="HTML5" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3" alt="CSS3" />
-  <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css" alt="TailwindCSS" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3" />
+  <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <br>
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php" alt="PHP" />
-  <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel" alt="Laravel" />
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql" alt="MySQL" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <br>
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git" alt="Git" />
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" alt="GitHub" />
-  <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code" alt="VS Code" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git" />
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" />
 </p>
 
 ---
@@ -101,12 +93,4 @@ Hello! I’m a Computer Science student passionate about building clean, accessi
 
 ---
 
-## 📝 Signature Quote
-
-> _"The expert in anything was once a beginner."_ — Helen Hayes
-
----
-
-_Thanks for stopping by! Let’s connect, collaborate, and grow together. 🚀_
-
-➡️ **Feel free to explore my repositories and follow my journey!**
+⭐ Thanks for visiting my profile!
