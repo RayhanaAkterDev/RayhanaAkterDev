@@ -62,40 +62,39 @@ A collection of repositories documenting my growth from frontend fundamentals to
 
 Currently expanding my skills through full-stack development.
 
-- [Dipti-MERN](repository-link)
+- [Dipti-MERN](https://github.com/RayhanaAkterDev/Dipti-MERN)
 
 
 ### ⚛️ React
 
 Building component-based applications and exploring modern frontend architecture.
 
-- [react-complete-guide](repository-link)
-- [React-core-concepts](repository-link)
-- [Explore-React-Core-Concepts](repository-link)
-- [Introduction-to-react-router](repository-link)
+- [react-complete-guide](https://github.com/RayhanaAkterDev/react-complete-guide)
+- [React-core-concepts](https://github.com/RayhanaAkterDev/React-core-concepts)
+- [Explore-React-Core-Concepts](https://github.com/RayhanaAkterDev/Explore-React-Core-Concepts)
+- [Introduction-to-react-router](https://github.com/RayhanaAkterDev/Introduction-to-react-router)
+- [API](https://github.com/RayhanaAkterDev/API)
 
 
 ### ⚡ JavaScript
 
 Strengthening programming fundamentals and interactive web development.
 
-- [javascript-complete-guide](repository-link)
-- [Learn-Basic-JavaScript](repository-link)
-- [type-of-variable-js](repository-link)
-- [Module-37---JavaScript-For-React](repository-link)
+- [javascript-complete-guide](https://github.com/RayhanaAkterDev/javascript-complete-guide)
+- [Module-37---JavaScript-For-React](https://github.com/RayhanaAkterDev/Module-37---JavaScript-For-React)
 
 
 ### 🎨 CSS & Responsive Design
 
 Learning modern styling approaches and building responsive layouts.
 
-- [responsive-media-query](repository-link)
-- [flexbox](repository-link)
-- [grid-layout](repository-link)
-- [css-positions](repository-link)
-- [pseudo-classes](repository-link)
-- [css-transitions](repository-link)
-- [loading-animation](repository-link)
+- [responsive-media-query](https://github.com/RayhanaAkterDev/responsive-media-query)
+- [flexbox](https://github.com/RayhanaAkterDev/flexbox)
+- [grid-layout](https://github.com/RayhanaAkterDev/grid-layout)
+- [css-positions](https://github.com/RayhanaAkterDev/css-positions)
+- [pseudo-classes](https://github.com/RayhanaAkterDev/pseudo-classes)
+- [css-transitions](https://github.com/RayhanaAkterDev/css-transitions)
+- [loading-animation](https://github.com/RayhanaAkterDev/loading-animation)
 
 
 ### 🌱 Foundations
