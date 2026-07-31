@@ -101,7 +101,7 @@ Learning modern styling approaches and building responsive layouts.
 
 Building the fundamentals of web development.
 
-- [frontend-core-foundations]([repository-link](https://github.com/RayhanaAkterDev/frontend-core-foundations))
+- [frontend-core-foundations](https://github.com/RayhanaAkterDev/frontend-core-foundations)
 
 ---
 
