@@ -110,20 +110,16 @@ Building the fundamentals of web development.
 
 > Smaller projects built while practicing frontend concepts, UI implementation, and problem-solving.
 
-- [B10A1-Web-Developer](https://github.com/RayhanaAkterDev/B10A1-Web-Developer) - description
-- [B10A2-Fitness](https://github.com/RayhanaAkterDev/B10A2-Fitness) - description
-- [B10-Gamer](https://github.com/RayhanaAkterDev/B10-Gamer) - description
-- [Tea House](repository-link) — Responsive landing page implementation using modern CSS techniques.
-- [React World Tour](repository-link) — React project focused on component-based development and data handling.
-- [MyFolio](https://github.com/RayhanaAkterDev/MyFolio) - description
-- [new-year](https://github.com/RayhanaAkterDev/new-year) - description
-- [web-design-projects](https://github.com/RayhanaAkterDev/web-design-projects) - description
-- [Music-World](https://github.com/RayhanaAkterDev/Music-World)- description
-- [developer-portfolio](https://github.com/RayhanaAkterDev/developer-portfolio) - description
-- [g3-architects](https://github.com/RayhanaAkterDev/g3-architects) - description
-- [price-options](https://github.com/RayhanaAkterDev/price-options) - description
-- [react-world-tour](https://github.com/RayhanaAkterDev/react-world-tour) - description
-- [penguin-fasion](https://github.com/RayhanaAkterDev/penguin-fasion) - description
+- [B10A1-Web-Developer](https://github.com/RayhanaAkterDev/B10A1-Web-Developer) — My first frontend assignment built using HTML and CSS during the Programming Hero course.
+- [B10A2-Fitness](https://github.com/RayhanaAkterDev/B10A2-Fitness) — Responsive fitness website developed to practice modern HTML, CSS, and responsive design techniques.
+- [B10-Gamer](https://github.com/RayhanaAkterDev/B10-Gamer) — Gaming-themed landing page built to strengthen responsive layouts and frontend development skills.
+- [g3-architects](https://github.com/RayhanaAkterDev/g3-architects) — Multi-section responsive landing page built using modern HTML and CSS layout techniques.
+- [Tea House](repository-link) — Responsive landing page created with Tailwind CSS, focusing on modern UI design and responsive layouts.
+- [developer-portfolio](https://github.com/RayhanaAkterDev/developer-portfolio) — Personal portfolio website built to practice responsive web design and component-based page structure.
+- [price-options](https://github.com/RayhanaAkterDev/price-options) — React project for practicing reusable components, props, and dynamic pricing card layouts.
+- [react-world-tour](https://github.com/RayhanaAkterDev/react-world-tour) — React application built to practice component-based development, state management, and API data fetching.
+
+> 💡 More frontend practice projects are available in my GitHub repositories.
 
 ---
 
