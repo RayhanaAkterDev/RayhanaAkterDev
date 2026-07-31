@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Rayhana Akter Sumaya</h1>
-<h3 align="center">💻 Frontend Developer | 🎓 CSE Student</h3>
+<h3 align="center">🎓 Final-Year CSE Student | 💻 Aspiring Frontend Developer</h3>
 
 <p align="center">
   <em>Building, learning, and improving step by step.</em>
