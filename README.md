@@ -102,9 +102,7 @@ Learning modern styling approaches and building responsive layouts.
 
 Building the fundamentals of web development.
 
-- [web-dev-learning](repository-link)
-- [frontend-core-foundations](repository-link)
-- [Frontend-Bootcamp-2.0](repository-link)
+- [frontend-core-foundations]([repository-link](https://github.com/RayhanaAkterDev/frontend-core-foundations))
 
 ---
 
@@ -113,8 +111,8 @@ Building the fundamentals of web development.
 > Smaller projects built while practicing frontend concepts, UI implementation, and problem-solving.
 
 - [Tea House](repository-link) — Responsive landing page implementation using modern CSS techniques.
-- [TaskZen](repository-link) — Task management project built to apply frontend development concepts.
 - [React World Tour](repository-link) — React project focused on component-based development and data handling.
+- [B10A1-Web-Developer](https://github.com/RayhanaAkterDev/B10A1-Web-Developer) - description
 
 ---
 
@@ -122,9 +120,9 @@ Building the fundamentals of web development.
 
 Older repositories, experiments, assignments, and early learning projects preserved as part of my development journey.
 
-- [Repository Name] — Short description
-- [Repository Name] — Short description
-- [Repository Name] — Short description
+- https://github.com/RayhanaAkterDev/web-design — Short description
+- https://github.com/RayhanaAkterDev/Frontend-Bootcamp-2.0 — Short description
+- https://github.com/RayhanaAkterDev/web-design-projects — Short description
 
 ---
 
