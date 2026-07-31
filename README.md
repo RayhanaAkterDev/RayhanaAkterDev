@@ -10,10 +10,10 @@
 
 ### 🚀 Quick Snapshot
 
-- 🎓 Final-Year Computer Science & Engineering Student
-- 💻 Aspiring Frontend Developer
-- 🌱 Currently learning the MERN Stack
-- 🚀 Building responsive, user-friendly web applications with modern frontend technologies
+- Final-Year Computer Science & Engineering Student
+- Aspiring Frontend Developer
+- Currently learning the MERN Stack
+- Building responsive, user-friendly web applications with modern frontend technologies
 
 ---
 
@@ -23,20 +23,19 @@ Hello! I'm Rayhana Akter Sumaya, a final-year Computer Science & Engineering stu
 
 I enjoy transforming ideas into clean, responsive, and user-friendly interfaces using HTML, CSS, JavaScript, Tailwind CSS, and React. I'm continuously strengthening my frontend development skills through hands-on projects while expanding my knowledge of full-stack development with the MERN Stack.
 
-- 🎯 Focused on frontend development and UI implementation
-- 💡 Building responsive and accessible web interfaces
-- 🛠️ Creating real-world projects to strengthen my technical skills
-- 🤝 Open to learning, feedback, and collaboration
+- Focused on frontend development and UI implementation
+- Building responsive and accessible web interfaces
+- Creating real-world projects to strengthen my technical skills
+- Open to learning, feedback, and collaboration
 
 ---
 
 ## 🎯 Current Focus
 
-- Strengthening JavaScript fundamentals
-- Building React applications with better component structure
-- Improving frontend architecture and code organization
-- Practicing responsive UI development with Tailwind CSS
-- Exploring backend concepts for full-stack development
+- Learning the MERN Stack through the DIPTI offline course
+- Building responsive web applications with React and Tailwind CSS
+- Strengthening JavaScript fundamentals through hands-on projects
+- Expanding my portfolio with real-world frontend projects
 
 ---
 
