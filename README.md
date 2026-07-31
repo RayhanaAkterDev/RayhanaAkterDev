@@ -2,7 +2,7 @@
 <h3 align="center">🎓 Final-Year CSE Student | 💻 Aspiring Frontend Developer</h3>
 
 <p align="center">
-  <em>Building, learning, and improving step by step.</em>
+ <em>Building responsive web applications and growing toward full-stack development.</em>
 </p>
 
 <p align="center">
