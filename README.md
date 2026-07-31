@@ -41,7 +41,18 @@ I enjoy transforming ideas into clean, responsive, and user-friendly interfaces 
 
 ## 🗂 Repository Collection
 
-Coming soon...
+### 💻 Featured Projects
+
+> Projects built to practice and apply frontend development concepts.
+
+| Project | Description | Code | Live |
+|--------|-------------|------|------|
+| Stand For People | A community support platform focused on connecting requests, volunteers, and assistance through a responsive interface. | [Code](https://github.com/RayhanaAkterDev/Foundation-Management-system.git) | [Live](https://standforpeople.vercel.app/) |
+| HeavenKare Hospital Management System | Frontend implementation of a hospital management interface built with React, Vite, and Tailwind CSS. | [Code](https://github.com/RayhanaAkterDev/Heavenkare-Hospital) | [Live](https://heavenkare-hospital.vercel.app/) |
+| Donate BD | Responsive donation website built to practice JavaScript interactions and UI development. | [Code](https://github.com/RayhanaAkterDev/B10A5-Donate-BD.git) | [Live](https://rayhanaakterdev.github.io/B10A5-Donate-BD/) |
+| Rinterio | Responsive real estate website developed using Tailwind CSS. | [Code](https://github.com/RayhanaAkterDev/B10A3-Rinterio.git) | [Live](https://rayhanaakterdev.github.io/B10A3-Rinterio/) |
+
+Coming more projects soon...
 
 ---
 
@@ -54,19 +65,6 @@ Coming soon...
 | JavaScript | 🛠 Improving |
 | React | 🔄 Building Projects |
 | Git & GitHub | ✅ Regular Usage |
-
----
-
-## 💻 Featured Projects
-
-> Projects built to practice and apply frontend development concepts.
-
-| Project | Description | Code | Live |
-|--------|-------------|------|------|
-| Stand For People | A community support platform focused on connecting requests, volunteers, and assistance through a responsive interface. | [Code](https://github.com/RayhanaAkterDev/Foundation-Management-system.git) | [Live](https://standforpeople.vercel.app/) |
-| HeavenKare Hospital Management System | Frontend implementation of a hospital management interface built with React, Vite, and Tailwind CSS. | [Code](https://github.com/RayhanaAkterDev/Heavenkare-Hospital) | [Live](https://heavenkare-hospital.vercel.app/) |
-| Donate BD | Responsive donation website built to practice JavaScript interactions and UI development. | [Code](https://github.com/RayhanaAkterDev/B10A5-Donate-BD.git) | [Live](https://rayhanaakterdev.github.io/B10A5-Donate-BD/) |
-| Rinterio | Responsive real estate website developed using Tailwind CSS. | [Code](https://github.com/RayhanaAkterDev/B10A3-Rinterio.git) | [Live](https://rayhanaakterdev.github.io/B10A3-Rinterio/) |
 
 ---
 
