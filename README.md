@@ -110,9 +110,20 @@ Building the fundamentals of web development.
 
 > Smaller projects built while practicing frontend concepts, UI implementation, and problem-solving.
 
+- [B10A1-Web-Developer](https://github.com/RayhanaAkterDev/B10A1-Web-Developer) - description
+- [B10A2-Fitness](https://github.com/RayhanaAkterDev/B10A2-Fitness) - description
+- [B10-Gamer](https://github.com/RayhanaAkterDev/B10-Gamer) - description
 - [Tea House](repository-link) — Responsive landing page implementation using modern CSS techniques.
 - [React World Tour](repository-link) — React project focused on component-based development and data handling.
-- [B10A1-Web-Developer](https://github.com/RayhanaAkterDev/B10A1-Web-Developer) - description
+- [MyFolio](https://github.com/RayhanaAkterDev/MyFolio) - description
+- [new-year](https://github.com/RayhanaAkterDev/new-year) - description
+- [web-design-projects](https://github.com/RayhanaAkterDev/web-design-projects) - description
+- [Music-World](https://github.com/RayhanaAkterDev/Music-World)- description
+- [developer-portfolio](https://github.com/RayhanaAkterDev/developer-portfolio) - description
+- [g3-architects](https://github.com/RayhanaAkterDev/g3-architects) - description
+- [price-options](https://github.com/RayhanaAkterDev/price-options) - description
+- [react-world-tour](https://github.com/RayhanaAkterDev/react-world-tour) - description
+- [penguin-fasion](https://github.com/RayhanaAkterDev/penguin-fasion) - description
 
 ---
 
