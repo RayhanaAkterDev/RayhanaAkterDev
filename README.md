@@ -154,7 +154,7 @@ Older repositories, experiments, assignments, and early learning projects preser
 
 ## 🌐 Connect With Me
 
-<a href="https://linkedin.com/in/rayhanaaktersumaya.dev">
+<a href="https://www.linkedin.com/in/rayhana-akter-sumaya-9652183a3">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" />
 </a>
 <a href="mailto:rayhanaaktersumaya.dev@gmail.com">
