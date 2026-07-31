@@ -39,9 +39,7 @@ I enjoy transforming ideas into clean, responsive, and user-friendly interfaces 
 
 ---
 
-## 🗂 Repository Collection
-
-### 💻 Featured Projects
+## 💻 Featured Projects
 
 > Projects built to apply frontend development skills and solve practical problems.
 
@@ -52,19 +50,61 @@ I enjoy transforming ideas into clean, responsive, and user-friendly interfaces 
 | Donate BD | A responsive donation platform built to practice JavaScript interactions, dynamic UI behavior, and frontend implementation. | HTML, CSS, JavaScript | [Code](https://github.com/RayhanaAkterDev/B10A5-Donate-BD.git) • [Live](https://rayhanaakterdev.github.io/B10A5-Donate-BD/) |
 | Rinterio | A responsive real estate landing page focused on modern UI design and Tailwind CSS implementation. | HTML, Tailwind CSS | [Code](https://github.com/RayhanaAkterDev/B10A3-Rinterio.git) • [Live](https://rayhanaakterdev.github.io/B10A3-Rinterio/) |
 
-Coming more projects soon...
+More projects will be added as I continue building and improving my development skills.
 
 ---
 
-## 🧭 Learning Progress
+## 📚 Learning Journey
 
-| Area | Status |
-|----------------|----------------|
-| HTML & CSS | ✅ Comfortable |
-| Tailwind CSS | ✅ Comfortable |
-| JavaScript | 🛠 Improving |
-| React | 🔄 Building Projects |
-| Git & GitHub | ✅ Regular Usage |
+A collection of repositories documenting my growth from frontend fundamentals toward full-stack development.
+
+### 🚀 MERN Stack
+
+Currently expanding my skills through full-stack development.
+
+- [Dipti-MERN](repository-link)
+
+
+### ⚛️ React
+
+Building component-based applications and exploring modern frontend architecture.
+
+- [react-complete-guide](repository-link)
+- [React-core-concepts](repository-link)
+- [Explore-React-Core-Concepts](repository-link)
+- [Introduction-to-react-router](repository-link)
+
+
+### ⚡ JavaScript
+
+Strengthening programming fundamentals and interactive web development.
+
+- [javascript-complete-guide](repository-link)
+- [Learn-Basic-JavaScript](repository-link)
+- [type-of-variable-js](repository-link)
+- [Module-37---JavaScript-For-React](repository-link)
+
+
+### 🎨 CSS & Responsive Design
+
+Learning modern styling approaches and building responsive layouts.
+
+- [responsive-media-query](repository-link)
+- [flexbox](repository-link)
+- [grid-layout](repository-link)
+- [css-positions](repository-link)
+- [pseudo-classes](repository-link)
+- [css-transitions](repository-link)
+- [loading-animation](repository-link)
+
+
+### 🌱 Foundations
+
+Building the fundamentals of web development.
+
+- [web-dev-learning](repository-link)
+- [frontend-core-foundations](repository-link)
+- [Frontend-Bootcamp-2.0](repository-link)
 
 ---
 
