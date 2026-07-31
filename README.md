@@ -108,6 +108,26 @@ Building the fundamentals of web development.
 
 ---
 
+## 🧪 Practice Projects
+
+> Smaller projects built while practicing frontend concepts, UI implementation, and problem-solving.
+
+- [Tea House](repository-link) — Responsive landing page implementation using modern CSS techniques.
+- [TaskZen](repository-link) — Task management project built to apply frontend development concepts.
+- [React World Tour](repository-link) — React project focused on component-based development and data handling.
+
+---
+
+## 🗄 Archive
+
+Older repositories, experiments, assignments, and early learning projects preserved as part of my development journey.
+
+- [Repository Name] — Short description
+- [Repository Name] — Short description
+- [Repository Name] — Short description
+
+---
+
 <p>
 
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5" />
