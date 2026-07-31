@@ -1,21 +1,31 @@
 <h1 align="center">Hi there 👋, I'm Rayhana Akter Sumaya</h1>
+
 <h3 align="center">🎓 Final-Year CSE Student | 💻 Aspiring Frontend Developer</h3>
 
 <p align="center">
- <em>Building responsive web applications and growing toward full-stack development.</em>
+  <em>Building responsive web applications and growing toward full-stack development.</em>
 </p>
+
+---
+
+### 🚀 Quick Snapshot
+
+- 🎓 Final-Year Computer Science & Engineering Student
+- 💻 Aspiring Frontend Developer
+- 🌱 Currently learning the MERN Stack
+- 🚀 Building responsive, user-friendly web applications with modern frontend technologies
 
 ---
 
 ## 🧩 About Me
 
-Hello! I’m Rayhana Akter Sumaya, a Computer Science student focused on frontend development.
+Hello! I'm Rayhana Akter Sumaya, a final-year Computer Science & Engineering student with a passion for building modern, responsive web applications.
 
-I enjoy building clean, responsive, and user-friendly web interfaces using modern frontend technologies. I work mainly with HTML, CSS, JavaScript, Tailwind CSS, and React while continuously improving my development skills through projects and practice.
+I enjoy transforming ideas into clean, responsive, and user-friendly interfaces using HTML, CSS, JavaScript, Tailwind CSS, and React. I'm continuously strengthening my frontend development skills through hands-on projects while expanding my knowledge of full-stack development with the MERN Stack.
 
 - 🎯 Focused on frontend development and UI implementation
-- 💡 Building responsive interfaces with modern CSS approaches
-- 🛠 Creating projects to apply and strengthen my skills
+- 💡 Building responsive and accessible web interfaces
+- 🛠️ Creating real-world projects to strengthen my technical skills
 - 🤝 Open to learning, feedback, and collaboration
 
 ---
