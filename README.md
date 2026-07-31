@@ -116,13 +116,16 @@ Building the fundamentals of web development.
 
 ---
 
-## 🗄 Archive
+## 🗄 Learning Archive
 
-Older repositories, experiments, assignments, and early learning projects preserved as part of my development journey.
+Older repositories preserved as milestones in my learning journey and technical growth.
 
-- https://github.com/RayhanaAkterDev/web-design — Short description
-- https://github.com/RayhanaAkterDev/Frontend-Bootcamp-2.0 — Short description
-- https://github.com/RayhanaAkterDev/web-design-projects — Short description
+- [web-design](https://github.com/RayhanaAkterDev/web-design) — Early HTML class exercises and foundational practice.
+- [Frontend-Bootcamp-2.0](https://github.com/RayhanaAkterDev/Frontend-Bootcamp-2.0) — Initial frontend learning repository, later replaced by `frontend-core-foundations`.
+- [free-code-camp-challenges](https://github.com/RayhanaAkterDev/free-code-camp-challenges) — Solutions and practice completed during FreeCodeCamp.
+- [milestone-1](https://github.com/RayhanaAkterDev/milestone-1) — Programming Hero course exercises and module practice.
+- [milestone-2](https://github.com/RayhanaAkterDev/milestone-2) — Programming Hero course exercises and module practice.
+- [milestone-3](https://github.com/RayhanaAkterDev/milestone-3) — Programming Hero course exercises and module practice.
 
 ---
 
