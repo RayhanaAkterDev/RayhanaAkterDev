@@ -5,10 +5,6 @@
  <em>Building responsive web applications and growing toward full-stack development.</em>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+Responsive+Web+Interfaces;Learning+JavaScript+%26+React;Improving+Through+Projects&center=true&width=750&height=45&color=F7C59F&vCenter=true&size=24" />
-</p>
-
 ---
 
 ## 🧩 About Me
